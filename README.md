@@ -10,13 +10,13 @@ B.Sc. Computer Science, Artificial Intelligence specialization — Nile Universi
 
 ## Selected engineering work
 
-### Integrated Administrative Platform
+### Administrative Integrated System
 
 Developed eight specialist applications and connected them through a shared administrative platform during military service. The work includes shared permissions, unified person-history search, document workflows and reviewed data imports. My responsibilities spanned requirements, frontend and backend implementation, integration, deployment and maintenance.
 
 **JavaScript · Node.js/Express · CSV/JSON · SQLite**
 
-[Case study](https://mohamedhaniramadan-portfolio.lovable.app/work/integrated-administrative-platform) · [Project brief with demo screenshots](docs/integrated-administrative-platform.pdf)
+[Source code](https://github.com/mohamed6hani/Administrative-Integrated-System) · [Case study](https://mohamedhaniramadan-portfolio.lovable.app/work/integrated-administrative-platform) · [Project brief with demo screenshots](docs/integrated-administrative-platform.pdf)
 
 ### E-Commerce Operations Prototype
 

@@ -24,7 +24,7 @@ A React administration interface backed by an Express REST API and SQLite. The d
 
 **React · Express · SQLite · Python**
 
-[Case study](https://mohamedhaniramadan-portfolio.lovable.app/work/ecommerce-operations-prototype) · [Project brief with scope and limitations](docs/ecommerce-operations-prototype.pdf)
+[Source code](https://github.com/mohamed6hani/E-Commerce-AI) · [Case study](https://mohamedhaniramadan-portfolio.lovable.app/work/ecommerce-operations-prototype) · [Project brief with scope and limitations](docs/ecommerce-operations-prototype.pdf)
 
 This is a local prototype. Authentication hardening, payments, shipping and integrated machine-learning services remain outside its demonstrated scope.
 
@@ -38,16 +38,16 @@ My 2024 graduation project was a team research effort. I developed the mouth-tra
 
 ## Public source projects
 
-These earlier projects document my foundations in desktop application development and data analysis. Their READMEs distinguish implemented behavior from remaining work.
+The current repositories include setup instructions, architecture notes and explicit implementation boundaries.
 
 | Project | Engineering focus | Status |
 | --- | --- | --- |
-| [BloodPoint](https://github.com/mohamed6hani/BloodBankManagmetSystem) | JavaFX interfaces, role-specific workflows and MySQL access | Historical desktop prototype |
-| [E-commerce Analysis](https://github.com/mohamed6hani/E-commerce-anaylsis) | Dataset preparation, exploratory analysis and notebook experiments | Academic analysis project |
+| [E-Commerce AI](https://github.com/mohamed6hani/E-Commerce-AI) | React administration UI, Express/SQLite API, repeatable demo data and separate Python experiments | Full-stack local prototype |
+| [BloodPoint](https://github.com/mohamed6hani/BloodBankManagmetSystem) | React/TypeScript donor, doctor and administrator interfaces with typed services and mock data | Frontend demo; backend integration remains |
 
 ## Tools I work with
 
-- **Applications:** JavaScript, React, Node.js, Express, Java and JavaFX
+- **Applications:** JavaScript, TypeScript, React, Node.js and Express
 - **Data:** SQL, SQLite, MySQL, Python and pandas
 - **Computer vision:** OpenCV, MediaPipe and TensorFlow.js
 - **Development:** Git, Docker and Linux

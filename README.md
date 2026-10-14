@@ -12,9 +12,9 @@ B.Sc. Computer Science, Artificial Intelligence specialization — Nile Universi
 
 ### Integrated Administrative Platform
 
-Developed applications and integrated them into a shared administrative platform during military service. My responsibilities covered understanding requirements, frontend and backend implementation, application integration, deployment and maintenance.
+Developed eight specialist applications and connected them through a shared administrative platform during military service. The work includes shared permissions, unified person-history search, document workflows and reviewed data imports. My responsibilities spanned requirements, frontend and backend implementation, integration, deployment and maintenance.
 
-**JavaScript · Node.js · SQL**
+**JavaScript · Node.js/Express · CSV/JSON · SQLite**
 
 [Case study](https://mohamedhaniramadan-portfolio.lovable.app/work/integrated-administrative-platform) · [Project brief with demo screenshots](docs/integrated-administrative-platform.pdf)
 
